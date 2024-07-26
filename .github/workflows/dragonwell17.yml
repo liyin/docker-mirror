@@ -6,7 +6,7 @@ on:
       IMAGE_NAME:
         description: '原镜像名称'
         required: true
-        default: 'alibabadragonwell/dragonwell:17-anolis'
+        default: 'alibabadragonwell/dragonwell'
       NEW_NAME:
         description: '同步后镜像名称'
         required: true
